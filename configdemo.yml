@@ -1,5 +1,5 @@
 build:
   id: 00000000000
   version: 0000000.0.0
-  name: "Dev-Git-Build"
-  type: "Git Developement Build"
+  name: "Default-Git-Build"
+  type: "Git Default Build"
